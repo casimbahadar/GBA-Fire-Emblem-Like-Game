@@ -1,0 +1,243 @@
+[
+    {
+        "nid": "2",
+        "name": "Chapter 2 \u2014 Mercy Road",
+        "tilemap": "Ch2_MercyRoad",
+        "bg_tilemap": null,
+        "party": "Kira",
+        "music": {
+            "player_phase": "Distant Roads",
+            "enemy_phase": "Shadow of the Enemy",
+            "other_phase": null,
+            "enemy2_phase": null,
+            "player_battle": "Attack",
+            "enemy_battle": "Defense",
+            "other_battle": null,
+            "enemy2_battle": null
+        },
+        "objective": {
+            "simple": "Rout all enemies",
+            "win": "All enemies defeated",
+            "loss": "Kira or Aldric dies"
+        },
+        "roam": false,
+        "roam_unit": null,
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [],
+        "units": [
+            {
+                "nid": "Kira",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    2,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Brennan",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    1,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lysa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    1,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Oswin",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    3,
+                    8
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "201",
+                "variant": null,
+                "level": 5,
+                "klass": "Fighter",
+                "faction": "Rebel",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    8,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "202",
+                "variant": null,
+                "level": 5,
+                "klass": "Soldier",
+                "faction": "Rebel",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    9,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "203",
+                "variant": null,
+                "level": 4,
+                "klass": "Soldier",
+                "faction": "Rebel",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "204",
+                "variant": null,
+                "level": 5,
+                "klass": "Knight",
+                "faction": "Rebel",
+                "starting_items": [
+                    [
+                        "Iron_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    13,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "205",
+                "variant": null,
+                "level": 4,
+                "klass": "Fighter",
+                "faction": "Rebel",
+                "starting_items": [
+                    [
+                        "Iron_Axe",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "206",
+                "variant": null,
+                "level": 5,
+                "klass": "Archer",
+                "faction": "Rebel",
+                "starting_items": [
+                    [
+                        "Iron_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": true
+            }
+        ],
+        "regions": [],
+        "unit_groups": [
+            {
+                "nid": "MiraGroup",
+                "units": [
+                    "Mira"
+                ],
+                "positions": {
+                    "Mira": [
+                        7,
+                        5
+                    ]
+                }
+            }
+        ],
+        "ai_groups": []
+    }
+]

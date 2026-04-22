@@ -1,0 +1,1 @@
+[{"nid":"Promotion_Seal","name":"Promotion Seal","desc":"A seal granting the power to advance beyond current limits. Used to promote a unit.","icon_nid":"Accessory","icon_index":[0,0],"components":[["usable_in_base",null],["value",500],["class_change_choice",null]]}]

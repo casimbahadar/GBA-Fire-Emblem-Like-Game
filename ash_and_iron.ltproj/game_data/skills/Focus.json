@@ -1,0 +1,1 @@
+[{"nid":"Focus","name":"Focus","desc":"Avoid +15 when no allies are adjacent.","icon_nid":"Skills","icon_index":[1,1],"components":[["class_skill",null],["avoid",15]]}]
