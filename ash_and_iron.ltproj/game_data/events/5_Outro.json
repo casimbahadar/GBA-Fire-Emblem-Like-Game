@@ -1,15 +1,1 @@
-[
-    {
-        "name": "Outro",
-        "trigger": "level_end",
-        "level_nid": "5",
-        "condition": "True",
-        "commands": [],
-        "only_once": false,
-        "priority": 20,
-        "_source": [
-            ""
-        ],
-        "nid": "5 Outro"
-    }
-]
+[{"nid":"5 Outro","name":"Outro","trigger":"unit_death","level_nid":"5","condition":"unit.nid == 'Inquisitor'","commands":[],"only_once":true,"priority":20,"_source":["transition;close","change_background;Ruins","add_portrait;Kira;Left","add_portrait;Vela;Right","speak;Vela;The inquisitor's records name who took your father.","speak;Kira;The Ashen Knight.","speak;Vela;Listed as 'General V.' Valdres origin.","pause;800","speak;Kira;I know.","remove_portrait;Kira","remove_portrait;Vela","transition;close","win_game"]}]

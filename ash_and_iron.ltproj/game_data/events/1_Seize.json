@@ -1,15 +1,1 @@
-[
-    {
-        "name": "Seize",
-        "trigger": "Seize",
-        "level_nid": "1",
-        "condition": "'Lord' in unit.tags",
-        "commands": [],
-        "only_once": false,
-        "priority": 20,
-        "_source": [
-            "win_game"
-        ],
-        "nid": "1 Seize"
-    }
-]
+[{"nid":"1 Seize","name":"Seize","trigger":"region_trigger","level_nid":"1","condition":"True","commands":[],"only_once":true,"priority":20,"_source":["transition;close","change_background;Road","add_portrait;Kira;Left","add_portrait;Lysa;Right","speak;Lysa;We're through. The gate is ours.","speak;Kira;For now. Keep moving.","speak;Lysa;Kira... the king—","pause;600","speak;Kira;I know. Nothing we can do now.","remove_portrait;Kira","remove_portrait;Lysa","transition;close","win_game"]}]
