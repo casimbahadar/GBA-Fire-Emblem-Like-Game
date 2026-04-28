@@ -1,0 +1,1 @@
+[{"nid":"Sure_Shot","name":"Sure Shot","desc":"Hit rate +15 when above 75% HP.","icon_nid":"Skills","icon_index":[1,0],"components":[["class_skill",null],["hit_rate",15]]}]

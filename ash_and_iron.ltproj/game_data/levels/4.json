@@ -1,0 +1,309 @@
+[
+    {
+        "nid": "4",
+        "name": "Chapter 4 \u2014 City of Oras",
+        "tilemap": "Ch4_CityOras",
+        "bg_tilemap": null,
+        "party": "Kira",
+        "music": {
+            "player_phase": "Distant Roads",
+            "enemy_phase": "Shadow of the Enemy",
+            "other_phase": null,
+            "enemy2_phase": null,
+            "player_battle": "Attack",
+            "enemy_battle": "Defense",
+            "other_battle": null,
+            "enemy2_battle": null
+        },
+        "objective": {
+            "simple": "Seize the embassy",
+            "win": "Kira seizes the Oras embassy",
+            "loss": "Kira or Aldric dies"
+        },
+        "roam": false,
+        "roam_unit": null,
+        "go_to_overworld": false,
+        "should_record": true,
+        "tags": [],
+        "units": [
+            {
+                "nid": "Kira",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    2,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Brennan",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    1,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Lysa",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    1,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Oswin",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    3,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Mira",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    2,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Caela",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    3,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "Soren",
+                "team": "player",
+                "ai": "None",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    4,
+                    7
+                ],
+                "starting_traveler": null,
+                "generic": false
+            },
+            {
+                "nid": "401",
+                "variant": null,
+                "level": 8,
+                "klass": "Myrmidon",
+                "faction": "Solara",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    10,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "402",
+                "variant": null,
+                "level": 8,
+                "klass": "Myrmidon",
+                "faction": "Solara",
+                "starting_items": [
+                    [
+                        "Steel_Sword",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    11,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "403",
+                "variant": null,
+                "level": 7,
+                "klass": "Soldier",
+                "faction": "Solara",
+                "starting_items": [
+                    [
+                        "Steel_Lance",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    4
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "404",
+                "variant": null,
+                "level": 8,
+                "klass": "Archer",
+                "faction": "Solara",
+                "starting_items": [
+                    [
+                        "Steel_Bow",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    12,
+                    6
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "405",
+                "variant": null,
+                "level": 9,
+                "klass": "Mage",
+                "faction": "Solara",
+                "starting_items": [
+                    [
+                        "Fire",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Attack",
+                "roam_ai": null,
+                "ai_group": "",
+                "starting_position": [
+                    14,
+                    5
+                ],
+                "starting_traveler": null,
+                "generic": true
+            },
+            {
+                "nid": "Inquisitor_Spy",
+                "variant": null,
+                "level": 9,
+                "klass": "Assassin",
+                "faction": "Solara",
+                "starting_items": [
+                    [
+                        "Killing_Edge",
+                        false
+                    ]
+                ],
+                "starting_skills": [],
+                "team": "enemy",
+                "ai": "Guard",
+                "roam_ai": null,
+                "ai_group": null,
+                "starting_position": [
+                    13,
+                    3
+                ],
+                "starting_traveler": null,
+                "generic": false
+            }
+        ],
+        "regions": [
+            {
+                "nid": "Embassy",
+                "position": [
+                    14,
+                    2
+                ],
+                "size": [
+                    1,
+                    1
+                ],
+                "region_type": "event",
+                "sub_nid": "4_Seize",
+                "condition": "True"
+            }
+        ],
+        "unit_groups": [
+            {
+                "nid": "FionnGroup",
+                "units": [
+                    "Fionn"
+                ],
+                "positions": {
+                    "Fionn": [
+                        9,
+                        5
+                    ]
+                }
+            },
+            {
+                "nid": "TessaraGroup",
+                "units": [
+                    "Tessara"
+                ],
+                "positions": {
+                    "Tessara": [
+                        14,
+                        7
+                    ]
+                }
+            }
+        ],
+        "ai_groups": []
+    }
+]

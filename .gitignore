@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# LT-Maker saves and autosave
+lt-maker/saves/
+ash_and_iron.ltproj/saves/
+*.ltlog
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

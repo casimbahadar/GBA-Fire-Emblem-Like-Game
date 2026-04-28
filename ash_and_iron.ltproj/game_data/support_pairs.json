@@ -1,0 +1,554 @@
+[
+    {
+        "unit1": "Eirika",
+        "unit2": "Seth",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 19,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 46,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 73,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Seth",
+        "unit2": "Franz",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 33,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 73,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 113,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Franz",
+        "unit2": "Gilliam",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 35,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 75,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 115,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Moulder",
+        "unit2": "Vanessa",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 33,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 73,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 113,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Kira",
+        "unit2": "Brennan",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 20,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 50,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 80,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Kira",
+        "unit2": "Lysa",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 20,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 50,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 80,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Kira",
+        "unit2": "Mira",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 25,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 55,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 90,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Brennan",
+        "unit2": "Lysa",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 25,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 60,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 95,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Oswin",
+        "unit2": "Tessara",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 30,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 65,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 100,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Caela",
+        "unit2": "Soren",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 30,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 65,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 100,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Mira",
+        "unit2": "Fionn",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 25,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 55,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 90,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Aldric",
+        "unit2": "Kira",
+        "one_way": true,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 20,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 50,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 80,
+                "gate": "",
+                "damage": 0.5,
+                "resist": 0.5,
+                "accuracy": 2.5,
+                "avoid": 2.5,
+                "crit": 2.5,
+                "dodge": 2.5,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    }
+]
